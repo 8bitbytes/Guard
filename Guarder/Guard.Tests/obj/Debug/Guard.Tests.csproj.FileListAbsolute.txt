@@ -1,0 +1,8 @@
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\obj\Debug\Guard.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\bin\Debug\Guard.Tests.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\bin\Debug\Guard.Tests.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\bin\Debug\Guarder.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\bin\Debug\Guarder.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\obj\Debug\Guard.Tests.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guard.Tests\obj\Debug\Guard.Tests.pdb

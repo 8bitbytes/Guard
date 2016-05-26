@@ -1,0 +1,8 @@
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\bin\Debug\GuardTestApp.exe.config
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\bin\Debug\GuardTestApp.exe
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\bin\Debug\GuardTestApp.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\bin\Debug\Guarder.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\bin\Debug\Guarder.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\obj\Debug\GuardTestApp.exe
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\obj\Debug\GuardTestApp.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\GuardTestApp\obj\Debug\GuardTestApp.csprojResolveAssemblyReference.cache

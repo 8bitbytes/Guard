@@ -1,0 +1,5 @@
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guarder\bin\Debug\Guarder.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guarder\bin\Debug\Guarder.pdb
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guarder\obj\Debug\Guard.csprojResolveAssemblyReference.cache
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guarder\obj\Debug\Guarder.dll
+C:\Users\peteh\documents\visual studio 2015\Projects\Guarder\Guarder\obj\Debug\Guarder.pdb
