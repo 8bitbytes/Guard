@@ -1,13 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Guarder
 {
     public static class Guard
     {
+        public struct GuardObject
+        {
+            public object Parameter;
+            public string ParameterName;
+
+            public GuardObject(object param, string paramName)
+            {
+                Parameter = param;
+                ParameterName = paramName;
+            }
+        }
+
+        public static void NotAnyNull(params GuardObject[] objects)
+        {
+            foreach (var obj in objects)
+            {
+                IsNotNull(obj.Parameter,obj.ParameterName);
+            }
+        }
         public static void IsNotNull(object param, string paramName)
         {
             if (param == null)

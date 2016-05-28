@@ -1,20 +1,20 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Guarder;
+
 namespace Guarder.Tests
 {
     [TestClass]
     public class GuardTests
     {
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "A null value did not raise an exception")]
+        [ExpectedException(typeof(ArgumentException), "A null value was passed")]
         public void Exception_With_Null_Value()
         {
             Guard.IsNotNull(null, "tmpObj");
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "A null value did not raise an exception")]
+        [ExpectedException(typeof(ArgumentException), "A empty string was passed")]
         public void Exception_With_Empty_Value()
         {
             Guard.IsNotNullOrEmpty(string.Empty, "tmpObj");
@@ -56,5 +56,11 @@ namespace Guarder.Tests
             Guard.IsNumeric("1,871,001,270.00252", "number");
         }
 
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException), "A null value was passed")]
+        public void Exception_With_Any_Null_Value()
+        {
+            Guard.NotAnyNull(new Guard.GuardObject("string","string"),new Guard.GuardObject(21,"int"),new Guard.GuardObject(null,"Exception value"));
+        }
     }
 }
